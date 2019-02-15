@@ -1,5 +1,5 @@
 # Talentry
-##**Proyecto para tesselar**
-###Creado por Brian Alejandro Ochoa Duran @baleocho
+## **Proyecto para tesselar**
+### Creado por Brian Alejandro Ochoa Duran @baleocho
 
 
